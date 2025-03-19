@@ -1,16 +1,20 @@
-## Hi there 👋
+Olá! Eu sou o Guilherme Ribeiro 🐱‍👤
+Linkedin
 
-<!--
-**GuilhermeRB1/GuilhermeRB1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Guilherme GitHub stats
 
-Here are some ideas to get you started:
+Top Langs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ Technologies that I use in my daily life:
+
+html5 css php kotlin JavaScript mysql
+
+📖 And Studyng:
+
+Vue.js React
+
+👋 Hello, my name is Guilherme, I'm 23 years old and passionate about technology and systems development.
+
+📚 My curiosity and passion for the technology field have led me to explore different tools and methodologies, with Git and Scrum being some of them. I thrive in teamwork, enjoy collaborating on challenging projects, and seek creative solutions to complex problems.
+
+📧 Feel free to reach out to me via email at guilhermeeribeiro2@gmail.com. I'm always open to learning opportunities and partnerships on interesting projects.
